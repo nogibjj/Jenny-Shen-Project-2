@@ -1,6 +1,5 @@
 import numpy as np
 
-
 def subdataframe(df, tick):
 
     ndf = df[df["Name"] == tick]
@@ -17,12 +16,4 @@ def growth(df, tick):
     diff = maxi - mini
     # find the percentage growth
     toReturn = (diff / mini) * 100
-    return toReturn
-
-def corrticker(df, ticker1, ticker2):
-    # list of stock dataframes
-    ticker1 = subdataframe(df, ticker1)
-    ticker2 = subdataframe(df, ticker2)
-    # find the correlation between both stock price
-    toReturn = ticker1["close"].corr(ticker2["close"])
     return toReturn
