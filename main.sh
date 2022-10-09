@@ -12,5 +12,4 @@ echo "Let's compare the rate of return between two stocks. Please enter the firs
 read ticker1
 echo "Please enter the second stock ticker: "
 read ticker2
-./query_sql_db.py cli-query --ticker_name $ticker-name1 $ticker-name2
-
+./query_sql_db.py corrticker --ticker1 $ticker1 --ticker2 $ticker2
