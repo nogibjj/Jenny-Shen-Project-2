@@ -11,4 +11,4 @@ format:
 lint:
 	pylint --disable=R,C --ignore-patterns=test_.*?py *.py dblib
 
-all: install lint test
+all: install lint testgit 
