@@ -1,5 +1,6 @@
 pytest
 pylint
+pylink
 click
 databricks
 databricks-cli
