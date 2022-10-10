@@ -1,6 +1,6 @@
 # IDS 706 Project 2
 
-[map-description-automatically-generated.pdf](https://github.com/nogibjj/Jenny-Shen-Project-2/files/9742955/map-description-automatically-generated.pdf)
+![stock_graph-5bfc2e9746e0fb00260bb3f9](https://user-images.githubusercontent.com/112578566/194788420-3afed299-adb7-46bd-b544-1c882a3e2411.jpeg)
 
 ## Background and dataset
 Project 2 is an extension of the first project with Bash command-line tool built in that perform a useful data preparation task. The dataset employed is from Kaggle, which oulines the historical stock data for all current S&P 500 companies. This dataset include data up to Feb 2018. (https://www.kaggle.com/datasets/camnugent/sandp500).
