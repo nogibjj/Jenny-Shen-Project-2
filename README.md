@@ -12,8 +12,9 @@ In fiancial worlds, people are not only interested in finding out the rate of re
 
 ![Pearson-Correlation-Coefficient-Formula](https://user-images.githubusercontent.com/112578566/194787952-5e2cf6bd-697b-4622-b384-60a7e080060e.jpeg)
 
-
+## An example of bash command-line result
+<img width="1004" alt="Screen Shot 2022-10-09 at 9 29 34 PM" src="https://user-images.githubusercontent.com/112578566/194788974-40646eb1-ed04-44f6-8b84-a96a701e5648.png">
 
 
 ## More to come!
-More financial analysis about this S&P 500 stock dataset including daily return of stock price return, moving average of stock price and stock price forecasting will be updated sooner...
+More financial analysis about this S&P 500 stock dataset such as correlation matrix including more than 2 stocks, correlation coefficient with the average market reutn, and more advanced portfolio selection command will be updated sooner...
