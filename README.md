@@ -1,5 +1,6 @@
 # IDS 706 Project 2
-![end-of-day-stock-prices](https://user-images.githubusercontent.com/112578566/190939521-3c378ec8-3edc-4d57-b429-952fda1f2058.png)
+
+[map-description-automatically-generated.pdf](https://github.com/nogibjj/Jenny-Shen-Project-2/files/9742955/map-description-automatically-generated.pdf)
 
 ## Background and dataset
 Project 2 is an extension of the first project with Bash command-line tool built in that perform a useful data preparation task. The dataset employed is from Kaggle, which oulines the historical stock data for all current S&P 500 companies. This dataset include data up to Feb 2018. (https://www.kaggle.com/datasets/camnugent/sandp500).
